@@ -1,7 +1,7 @@
 
-<div style=background-color:"black"><img src="final.png">
-<img src="finalm.png">
-</div>
+<img src="fianl.png>
+<center><img src="finalm.png"></center>
+
 
 
 # Getting Started with Create React App
