@@ -1,5 +1,5 @@
 
-<img src="img.png">
+<img src="image.png">
 
 # Getting Started with Create React App
 
