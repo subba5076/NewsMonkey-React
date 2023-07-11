@@ -1,6 +1,6 @@
 
-<img src="fianl.png>
-<center><img src="finalm.png"></center>
+<img src="final.png">
+<img src="finalm.png">
 
 
 
