@@ -1,5 +1,10 @@
-<img src="final.png">
+<style>
+  .pic{
+    background-color:black;
+</style>
+<div class="pic"><img src="final.png">
 <img src="finalm.png">
+</div>
 
 
 # Getting Started with Create React App
