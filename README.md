@@ -1,8 +1,5 @@
-<style>
-  .pic{
-    background-color:black;
-</style>
-<div class="pic"><img src="final.png">
+
+<div style=background-color:"black"><img src="final.png">
 <img src="finalm.png">
 </div>
 
